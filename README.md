@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prachi Parihar</h1>
-<h3 align="center">A passionate frontend developer who loves to learn new technologies.</h3>
+<h3 align="center">A passionate fullstack  developer who loves to learn new technologies.</h3>
 
 
 - 🌱 I’m currently learning **Next Js**
