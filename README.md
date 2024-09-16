@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack  developer who loves to learn new technologies.</h3>
 
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📫 How to reach me **prachisingh30aabb@gmail.com**
 
